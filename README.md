@@ -1,5 +1,9 @@
-### Member of the Microsoft Conversational AI Team.
+### Member of the Atlassian Confluence Cloud Performance.
 
-### Currently working on:
-- [Bot Framework Composer](https://github.com/microsoft/BotFramework-Composer)
-- [Bot Framework Emulator](https://github.com/microsoft/BotFramework-Emulator)
+## Other Projects
+
+- I write [World of Warcraft addons](https://www.curseforge.com/members/fignewticus/projects) as well!
+- [My website](https://www.tonyanziano.com/)
+
+## Info
+- [LinkedIn profile](https://www.linkedin.com/in/tony-anziano/)
