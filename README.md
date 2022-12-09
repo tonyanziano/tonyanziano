@@ -1,4 +1,4 @@
-### Member of the Atlassian Confluence Cloud Performance.
+### Member of the Atlassian Confluence Cloud Performance team.
 
 ## Other Projects
 
