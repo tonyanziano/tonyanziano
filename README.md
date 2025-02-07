@@ -1,4 +1,4 @@
-### Member of the Atlassian Confluence Cloud Performance team.
+### Engineer on Confluence @ Atlassian.
 
 ## Other Projects
 
